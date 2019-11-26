@@ -46,7 +46,7 @@
                                 </div>
                             </div>
                             <div class="button">
-                                <a href="https://play.google.com/store/apps/details?id=com.i_project.dnb"><img src="images/dbutton.PNG"></a>
+                                <a href="https://play.google.com/store/apps/details?id=com.i_project.dnb"><img src="images/dbutton.png"></a>
                             </div>
 
                             <div class="timetable-image">
