@@ -26,7 +26,6 @@ header .Logo {
 float: left;
 height: inherit;
 margin-right: 2em;
-padding-bottom: 10px;
 
 }
 header ul{
@@ -100,7 +99,6 @@ height: 500px;
 padding: auto;
 margin: auto;
 padding-top: 50px;
-padding-bottom: 10%;
 }
 .timetable-paragraph{
 padding-top: 50px;
@@ -182,7 +180,7 @@ padding-left: 0px;
 @media only screen and (min-width: 320px){
 .timetable-section{
 width: 100%;
-height: 900px;
+height: 830px;
 padding: auto;
 margin: auto;
 padding-top: 30px;
@@ -236,6 +234,9 @@ padding-top: 15px;
 }  
 }
 @media only screen and (min-width: 360px){
+.timetable-section{
+height: 750px;
+}
 .timetable-paragraph{
 width: 100%;
 padding-left: 4%;
@@ -256,7 +257,7 @@ padding-top: 2%;
 width: 100%;
 }
 .timetable-section{
-height: 850px;
+height: 770px;
 }
 .timetable-paragraph{
 width: 100%;
@@ -306,8 +307,7 @@ padding-top: 15px;
 }
 @media only screen and (min-width: 411px){
 .timetable-section{
-height: 850px;
-
+height: 750px;
 }
 .timetable-paragraph{
 width: 97%;
@@ -329,6 +329,10 @@ width: 410px;
 } 
 }
 @media only screen and (min-width: 568px){
+.timetable-section{
+width: 100%;
+height: 680px;
+}
 .timetable-image img {
 width: 550px;
 }
@@ -336,8 +340,12 @@ width: 550px;
 display: none;
 }
 
+
 }
 @media only screen and (min-width: 640px){
+.timetable-section{
+height: 650px;
+}
 .timetable-image img {
 width: 599px;
 padding-left: 20%;
@@ -360,9 +368,7 @@ width: 650px;
 display: none;
 }
 }
-@media only screen and (min-width: 736px){
-  
-}
+
 @media only screen and (min-width: 768px){
     
 .timetable-section{
@@ -388,7 +394,41 @@ width: 100%;
 .timetable-image img {
 width: 600px;
 }
+.footer-section{
+width: 100%;
+height: 150px;
+background: #000000;
 }
+.first-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 9%;
+
+}
+.first-links ul li{
+list-style: none;
+}
+.Second-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
+}
+.Second-links ul li{
+list-style: none;
+}
+.third-links{
+width: calc(100%/3);
+float: right;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
+}
+}
+
 
 @media only screen and (min-width: 812px){
 .timetable-section{
@@ -414,6 +454,39 @@ width: 60%;
 .timetable-image img {
 width: 700px;
 }
+.footer-section{
+width: 100%;
+height: 150px;
+background: #000000;
+}
+.first-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 9%;
+
+}
+.first-links ul li{
+list-style: none;
+}
+.Second-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
+}
+.Second-links ul li{
+list-style: none;
+}
+.third-links{
+width: calc(100%/3);
+float: right;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
+}
 }
 @media only screen and (min-width: 823px){
 .timetable-section{
@@ -438,6 +511,39 @@ width: 100%;
 }
 .timetable-image img {
 width: 700px;
+}
+.footer-section{
+width: 100%;
+height: 190px;
+background: #000000;
+}
+.first-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 9%;
+
+}
+.first-links ul li{
+list-style: none;
+}
+.Second-links{
+width: calc(100%/3);
+float: left;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
+}
+.Second-links ul li{
+list-style: none;
+}
+.third-links{
+width: calc(100%/3);
+float: right;
+margin: auto;
+padding: 30px;
+padding-left: 15%;
 }
 }
 @media only screen and (min-width: 1024px){
