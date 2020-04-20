@@ -9,10 +9,10 @@
         <script src="https://kit.fontawesome.com/bd832a5ee6.js" crossorigin="anonymous"></script>        
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
         <title>DNB</title>
-        <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+        <link href="css/homepage.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <div class="wholepage-homepage">
+        <div class="wholepage">
                 <div id="header">
                         <header>
                              <div class= "Logo"><img src="images/logoo.png"> </div>
@@ -50,15 +50,15 @@
                                         educating students and enhance collaboration among organisations effectively.
                                 </div>
                             </div>
-                            
+                            <div class="button">
+                                <a href="https://play.google.com/store/apps/details?id=com.i_project.dnb"><img src="images/dbutton.png"></a>
+                            </div>
 
                             <div class="timetable-image">
                                 <img src="images/timetable.png">
                             </div>
 
-                            <div class="button">
-                                    <a href="https://play.google.com/store/apps/details?id=com.i_project.dnb"><img src="images/dbutton.PNG"></a>
-                                </div>
+                        
                         </section>
                         
                        
@@ -66,43 +66,39 @@
                      </div>
 
                         <div class="footer-section">
-                            <div class = "footer-content">
-                                    <div class="footer-links">
-                                            <h3 class="footer-heading">Quick links</h3>
-                                            <ul class="link">
-                                                <li><a href="https://play.google.com/store/apps/details?id=com.i_project.dnb">Download</a></li>
-                                                <li><a href="privacy.html"> Privacy Policy</a></li> 
-                                                <li><a href="terms.html"> Terms and Conditions</a></li>
-                                            </ul>
-                                        </div>
-                                        
-            
-                                        <div class="footer-links">
-                                            <h3 class="footer-heading">Platforms</h3>
-                                            <ul class="link">
-                                                <li><a href="#">Android</a></li>
-                                            </ul>
-                                        </div>
-                                       
-            
-                                        <div class="footer-links">
-                                            <h3 class="footer-heading">Devices</h3>
-                                            <ul class="link">
-                                                <li><a href="#">Smart phones</a></li>
-                                                <li><a href="#">Tablets</a></li>
-                
-                                            </ul>
-                                    </div>
+                            <div class="first-links">
+                                <h3 class="footer-heading">Quick links</h3>
+                                <ul class="link">
+                                    <li><a href="">Download</a></li>
+                                    <li><a href=""> Privacy Policy</a></li> 
+                                    <li><a href="#"> Terms and Conditions</a></li>
+                                </ul>
                             </div>
-                          
-                            <footer class="bottom-footer">
-                                    <p class="copyright">&copy; 2020 DNB.All Rights Reserved </p>
-                                   
-                                </footer>
+                            
+
+                            <div class="Second-links">
+                                <h3 class="footer-heading">Platforms</h3>
+                                <ul class="link">
+                                    <li><a href="#">Android</a></li>
+                                </ul>
+                            </div>
+                           
+
+                            <div class="third-links">
+                                <h3 class="footer-heading">Devices</h3>
+                                <ul class="link">
+                                    <li><a href="#">Smart phones</a></li>
+                                    <li><a href="#">Tablets</a></li>
+    
+                                </ul>
+                            </div>
                            
                         </div>
 
-                        
+                        <footer class="bottom-footer">
+                            <p class="copyright">&copy; 2020 DNB-All Rights Reserved  </p>
+                           
+                        </footer>
         </div>
        
 
