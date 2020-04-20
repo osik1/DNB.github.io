@@ -8,6 +8,7 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans+Condensed:300|Oswald|Roboto&display=swap" rel="stylesheet">
         <script src="https://kit.fontawesome.com/bd832a5ee6.js" crossorigin="anonymous"></script>        
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+        <link rel="icon" type="image/icon" href="images/logoo.png" />
         <title>DNB</title>
         <link href="css/homepage.css" rel="stylesheet" type="text/css">
     </head>
