@@ -9,7 +9,7 @@
         <script src="https://kit.fontawesome.com/bd832a5ee6.js" crossorigin="anonymous"></script>        
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
         <link rel="icon" type="image/icon" href="images/logo.png" />
-        <title>DNB</title>
+        <title>DNB/Homepage</title>
         <link href="css/homepage.css" rel="stylesheet" type="text/css">
     </head>
     <body>
